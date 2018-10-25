@@ -1,0 +1,13 @@
+Package: catLovers
+Version: 0.0
+Date: 2018-10-25
+Title: Do you love cats?
+Authors@R: c(person("Marlee", "Labroo", role = c("aut", "cre"),
+                  email = "labroo2@illinois.edu"),person("Joyce", "Njuguna", role = c("aut", "cre"),
+                  email = "njuguna2@illinois.edu"))
+Author: Marlee [aut, cre],
+  Joyce Njuguna [aut]
+Maintainer: Marlee <labroo2@illinois.edu>
+Description: This package includes functions to pring a cat for those who love cats, Dedicated to Crystal.
+Url: https://github.com/joyceleyn/Lab9
+License: GPL-3
