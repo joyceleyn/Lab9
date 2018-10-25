@@ -2,7 +2,7 @@
 \alias{cat_function}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+cat function
 }
 \description{
 This function prints a cute cat picture if you are a cat lover.
@@ -20,11 +20,7 @@ a Boolean TRUE/FALSE value indicating whether you love cats (TRUE) or do not lov
 %%  ~~ If necessary, more details than the description above ~~
 }
 \value{
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
+Prints a character string (which looks like a cat).
 }
 \references{
 %% ~put references to the literature/web site here ~
