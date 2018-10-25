@@ -32,10 +32,10 @@ Joyce Njuguna & Marlee Labroo
 
 }
 \examples{
-Here is an example of the execution should you love cats:
+"Here is an example of the execution should you love cats:
 cat_function(love = TRUE)
 Here is an example of the execution should you not love cats for some reason:
-cat_function(love = FALSE)
+cat_function(love = FALSE)"
 }
 
 
